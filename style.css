@@ -12,6 +12,8 @@ main, html {
   justify-content: center;
   align-items: center;
   background-color: #0C356A;
+  background-image: url(img/desafio.jpg);
+  background-size: cover;
 }
 
 .container {
